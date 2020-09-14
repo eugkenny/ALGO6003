@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://github.com/eugkenny/ALGO6003" # the base hostname & protocol for your site
 syllabus: "/syllabus"
 githublink: "https://github.com/eugkenny/ALGO6003"
-githubdir: "eugkenny"
+githubdir: "eugkenny/ALGO6003"
 
 # Author/user information
 email: eugkenny.lit@gmail.com
