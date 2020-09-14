@@ -7,7 +7,7 @@ baseurl: "/ALGO6003" # the subpath of your site, e.g. /blog/
 url: "https://github.com/eugkenny/ALGO6003" # the base hostname & protocol for your site
 syllabus: "/syllabus"
 githublink: "https://github.com/eugkenny/ALGO6003"
-githubdir: "eugkenny/ALGO6003"
+githubdir: "eugkenny"
 
 # Author/user information
 email: eugkenny.lit@gmail.com
@@ -25,7 +25,7 @@ markdown: kramdown
 permalink: blog/:year/:month/:title
 excerpt_separator: "<!--more-->"
 
-include: ['/_images', '/_css']
+include: ['_images', '_css']
 
 # SEO stuff
 # google_author: ""
