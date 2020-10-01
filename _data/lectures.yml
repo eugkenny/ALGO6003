@@ -3,7 +3,27 @@
 #  dirname: untitled-lecture
 #  tldr: "This is just a sample .rmd file to illustrate the use of the lectures.yml file."
 
-- title: "Week 1: Intro"
-  filename: introduction
-  dirname: untitled-lecture
-  tldr: "Once more with feeling."
+- title: "Lecture 1: Introduction"
+  filename: 01 - Introduction.pdf
+  dirname: lectures
+  tldr: "Introduction"
+
+- title: "Lecture 2: Union-Find"
+  filename: 02 - UnionFind.pdf
+  dirname: lectures
+  tldr: "QuickFind, QuickUnion, WeightedQuickUnion, PathCompression"
+
+- title: "Demo: Union-Find"
+  filename: 02 - DemoQuickFind.mov
+  dirname: lectures
+  tldr: "QuickFind"
+
+- title: "Demo: Union-Find"
+  filename: 02 - DemoQuickUnion.mov
+  dirname: lectures
+  tldr: "QuickUnion, WeightedQuickUnion, PathCompression"
+
+- title: "Lecture 3: Analysis of Algorithms"
+  filename: 03 - Analysis of Algorithms.pdf
+  dirname: lectures
+  tldr: "Measuring performance, Order of growth classifications"
