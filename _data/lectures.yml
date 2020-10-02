@@ -28,7 +28,7 @@
   dirname: lectures
   tldr: "Measuring performance, Order of growth classifications"
 
-- title: "Lecture 3: Stacks and Queues"
+- title: "Lecture 4: Stacks and Queues"
   filename: 04 - Stacks and Queues.pdf
   dirname: lectures
   tldr: "Stacks, queues, array and linked implementations, generics"
