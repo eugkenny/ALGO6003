@@ -27,3 +27,8 @@
   filename: 03 - Analysis of Algorithms.pdf
   dirname: lectures
   tldr: "Measuring performance, Order of growth classifications"
+
+- title: "Lecture 3: Stacks and Queues"
+  filename: 04 - Stacks and Queues.pdf
+  dirname: lectures
+  tldr: "Stacks, queues, array and linked implementations, generics"
