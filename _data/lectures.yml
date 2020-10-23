@@ -32,3 +32,10 @@
   filename: 04 - Stacks and Queues.pdf
   dirname: lectures
   tldr: "Stacks, queues, array and linked implementations, generics"
+
+- title: "Lecture 5: Basic Sorting Algorithms"
+  filename: 05 - Elementary Sorting Algorithms.pdf
+  dirname: lectures
+  tldr: "Selection sort, insertion sort, shellsort"
+
+

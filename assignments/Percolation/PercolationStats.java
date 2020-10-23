@@ -14,18 +14,22 @@ public class PercolationStats{
 
 	public double mean(){
 		// YOUR CODE HERE
+		return 0;
 	}
 	
 	public double stddev(){
 		// YOUR CODE HERE
+		return 0;
 	}
 	
 	public double confidenceLo(){
 		// YOUR CODE HERE
+		return 0;
 	}
 	
 	public double confidenceHi(){
 		// YOUR CODE HERE
+		return 0;
 	}
 	
 	public static void main( String [] args){
@@ -35,9 +39,12 @@ public class PercolationStats{
 			System.out.println( "and T is the number of experiments to run");
 			System.exit(1);
 		}
-		int N = Integer.parseInt( args[0]);
-		int T = Integer.parseInt( args[1]);
-		
+		//int N = Integer.parseInt( args[0]);
+		//int T = Integer.parseInt( args[1]);
+
+		int N = 20;
+		int T = 100;
+
 		PercolationStats ps = new PercolationStats( N, T);
 		
 		System.out.println( "Mean: " + ps.mean());
