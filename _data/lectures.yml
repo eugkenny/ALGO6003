@@ -38,4 +38,14 @@
   dirname: lectures
   tldr: "Selection sort, insertion sort, shellsort"
 
+- title: "Lecture 6: Mergesort"
+  filename: 06 - Mergesort.pdf
+  dirname: lectures
+  tldr: "Mergesort, comparators, stability"
+
+- title: "Lecture 7: Quicksort"
+  filename: 07 - Quicksort.pdf
+  dirname: lectures
+  tldr: "Quicksort, duplicate keys"
+
 
