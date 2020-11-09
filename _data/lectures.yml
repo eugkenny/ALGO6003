@@ -48,4 +48,8 @@
   dirname: lectures
   tldr: "Quicksort, duplicate keys"
 
+- title: "Lecture 8: Priority Queues"
+  filename: 08 - Priority Queues.pdf
+  dirname: lectures
+  tldr: "Priority queues, binary trees, binary heaps, heapsort"
 
