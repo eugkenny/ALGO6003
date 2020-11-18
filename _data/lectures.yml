@@ -53,3 +53,13 @@
   dirname: lectures
   tldr: "Priority queues, binary trees, binary heaps, heapsort"
 
+- title: "Lecture 9: Elementary Symbol Tables"
+  filename: 09 - Elementary Symbol Tables.pdf
+  dirname: lectures
+  tldr: ""
+
+- title: "Lecture 10: Binary Search Trees"
+  filename: 10 - Binary Search Trees.pdf
+  dirname: lectures
+  tldr: ""
+

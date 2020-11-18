@@ -1,0 +1,25 @@
+For each method in Percolation that you must implement (e.g., open() and percolates()), make a list of which methods in WeightedQuickUnionUF (e.g., union() and find()) that might be useful for implementing that method. This should help solidify what you’re attempting to accomplish. Do not write your own union–find data structure or algorithms.
+
+
+Using the list of methods from the API as a guide, choose instance variables that you’ll need to solve the problem. Don’t overthink this, you can always change them later. Instead, use your list of instance variables to guide your thinking as you follow the steps below, and make changes to your instance variables as you go.
+
+
+Plan how you’re going to map from a two-dimensional (row, column) site to a one-dimensional union–find index. Write a private method to convert from 2D coordinates to 1D coordinates (instead of copying and pasting the conversion formula multiples times).
+
+
+Write a private method for validating indices. Since each method must throw an exception for invalid indices, write a private helper method to do so (instead of copying and pasting the validation code multiples times).
+
+
+Write the Percolation constructor. It’s job is to initialize all of the instance variables.
+
+
+Write the open() method. The open() method should do three things. First, it should validate the indices of the site that it receives. Second, it should somehow mark the site as open and increment the number of open sites by one (if the site is not already open). Third, it should perform some sequence of union–find operations that links the site in question to its open neighbors. The constructor and instance variables should facilitate the open() method’s ability to do its job.
+
+
+Test the open() method and the Percolation() constructor. These tests should be in main(). An example of a simple test is to create a percolation object with n = 2, then call open(0, 1) and open(1, 1), and finally to call percolates().
+
+
+Write the percolates(), isOpen(), and isFull() methods. These should be very simple methods. Each of the methods (except the constructor) in Percolation must use a constant number of union–find operations. If you have a loop (or recursion) inside of one of your Percolation methods, you’re probably doing it wrong. Don’t forget about the virtual-top / virtual-bottom trick.
+
+
+Write and test the PercolationStats class. Use standard random and standard statistics. 

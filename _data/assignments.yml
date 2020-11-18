@@ -1,4 +1,4 @@
-- title: "Programming Assignment 1"
+- title: "Programming Assignment 1 - Percolation"
   filename: Programming Assignment 1 - Percolation.pdf
   dirname: assignments
   tldr: "Percolation Systems, Union-Find"
@@ -7,6 +7,16 @@
   filename: Percolation.zip
   dirname: assignments/Percolation
   tldr: "Percolation Systems, Union-Find"
+
+- title: "Programming Assignment 2 - Collinear Points"
+  filename: Programming Assignment 2 - Collinear Points.pdf
+  dirname: assignments
+  tldr: "Pattern recognition, sorting"
+
+- title: "Programming Assignment 2 - Starter Code"
+  filename: Collinear.zip
+  dirname: assignments
+  tldr: "Pattern recognition, sorting"
 
 
 
