@@ -63,3 +63,9 @@
   dirname: lectures
   tldr: ""
 
+- title: "Lecture 11: Balanced Search Trees"
+  filename: 11 - Balanced Search Trees.pdf
+  dirname: lectures
+  tldr: "2-3 trees, red-black trees"
+
+
