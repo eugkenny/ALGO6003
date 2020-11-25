@@ -38,20 +38,55 @@
   dirname: lectures
   tldr: "Selection sort, insertion sort, shellsort"
 
+- title: "Demo: Selection Sort"
+  filename: 05 - DemoSelectionSort.mov
+  dirname: lectures
+  tldr: "Selection sort"
+
+- title: "Demo: Insertion Sort"
+  filename: 05 - DemoInsertionSort.mov
+  dirname: lectures
+  tldr: "Insertion sort"
+
+- title: "Demo: Shell Sort"
+  filename: 05 - DemoShellSort.mov
+  dirname: lectures
+  tldr: "Shell sort"
+
 - title: "Lecture 6: Mergesort"
   filename: 06 - Mergesort.pdf
   dirname: lectures
   tldr: "Mergesort, comparators, stability"
+
+- title: "Demo: Mergesort"
+  filename: 06 - DemoMerge.mov
+  dirname: lectures
+  tldr: "Mergesort"
 
 - title: "Lecture 7: Quicksort"
   filename: 07 - Quicksort.pdf
   dirname: lectures
   tldr: "Quicksort, duplicate keys"
 
+- title: "Demo: Quicksort Partitioning"
+  filename: 07 - DemoPartitioning.pdf
+  dirname: lectures
+  tldr: "Quicksort partitioning"
+
 - title: "Lecture 8: Priority Queues"
   filename: 08 - Priority Queues.pdf
   dirname: lectures
   tldr: "Priority queues, binary trees, binary heaps, heapsort"
+
+- title: "Demo: Binary Heap"
+  filename: 08 - DemoBinaryHeap.mov
+  dirname: lectures
+  tldr: "Binary heap"
+
+- title: "Demo: Heapsort"
+  filename: 08 - DemoHeapsort.mov
+  dirname: lectures
+  tldr: "Heapsort"
 
 - title: "Lecture 9: Elementary Symbol Tables"
   filename: 09 - Elementary Symbol Tables.pdf
@@ -63,9 +98,24 @@
   dirname: lectures
   tldr: " "
 
+- title: "Demo: Binary Search Trees"
+  filename: 10 - DemoBinarySearchTree.mov
+  dirname: lectures
+  tldr: "Binary search trees"
+
 - title: "Lecture 11: Balanced Search Trees"
   filename: 11 - Balanced Search Trees.pdf
   dirname: lectures
   tldr: "2-3 trees, red-black trees"
+
+- title: "Demo: 2-3 Trees"
+  filename: 11 - Demo23Tree.mov
+  dirname: lectures
+  tldr: "2-3 trees"
+
+- title: "Demo: Red-Black Binary Search Trees"
+  filename: 11 - DemoRedBlackBST.mov
+  dirname: lectures
+  tldr: "Red-black binary search trees"
 
 
